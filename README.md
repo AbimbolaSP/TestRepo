@@ -1,2 +1,3 @@
 # TestRepo
-A repository from introduction to Github
+Testing Repository 
+My first markdown file
